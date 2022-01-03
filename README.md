@@ -1,12 +1,27 @@
 # Cryptocurrency Clusters with Unsupervised ML
 
-──▄▄█▀▀▀▀▀█▄▄────▄▄█▀▀▀▀▀█▄▄────▄▄█▀▀▀▀▀█▄▄──
-▄█▀░░▄░▄░░░░▀█▄▄█▀░░▄░▄░░░░▀█▄▄█▀░░▄░▄░░░░▀█▄
-█░░░▀█▀▀▀▀▄░░░██░░░▀█▀▀▀▀▄░░░██░░░▀█▀▀▀▀▄░░░█
-█░░░░█▄▄▄▄▀░░░██░░░░█▄▄▄▄▀░░░██░░░░█▄▄▄▄▀░░░█
-█░░░░█░░░░█░░░██░░░░█░░░░█░░░██░░░░█░░░░█░░░█
-▀█▄░▀▀█▀█▀░░▄█▀▀█▄░▀▀█▀█▀░░▄█▀▀█▄░▀▀█▀█▀░░▄█▀
-──▀▀█▄▄▄▄▄█▀▀────▀▀█▄▄▄▄▄█▀▀────▀▀█▄▄▄▄▄█▀▀──
+    ──▄▄█▀▀▀▀▀█▄▄──
+    ▄█▀░░▄░▄░░░░▀█▄
+    █░░░▀█▀▀▀▀▄░░░█
+    █░░░░█▄▄▄▄▀░░░█
+    █░░░░█░░░░█░░░█
+    ▀█▄░▀▀█▀█▀░░▄█▀
+    ──▀▀█▄▄▄▄▄█▀▀──
+
+__________________
+
+
+<details>
+<summary> Tools, Languages, & Libraries Utilized</summary>
+<li>Python</li>
+<li>Pandas</li>
+<li>Pathlib</li>
+<li>Sklearn - TSNE, KMeans, PCA</li>
+<li>VS Code</li>
+<li>Jupyter Notebook</li>
+</details>
+
+__________________
 
 A report that includes what cryptocurrencies are on the trading market and determine whether they can be grouped to create a classification system for this new investment.
 
